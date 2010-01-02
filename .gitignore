@@ -2,3 +2,5 @@ config/database.yml
 vendor/gems/*
 !vendor/gems/cache
 log/*.log
+bin/*
+db/*
